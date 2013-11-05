@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://herbage.so/herbage/sitemap.xml 
+Sitemap: http://herbage.so//sitemap.xml 
